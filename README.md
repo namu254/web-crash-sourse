@@ -23,3 +23,8 @@ CSS tools{
 Basic HTML How To{
 
     'https://www.w3schools.com/howto/default.asp'
+    
+    
+Gradients Bakgrounds 
+
+    "https://cssgradient.io/gradient-backgrounds/"
